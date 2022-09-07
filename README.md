@@ -1,3 +1,3 @@
-# BEB Domains Garden
+# BEBverse Garden
 
-This site tracks all the projects building on the BEB Domains protocol!
+This site tracks all the projects building on the BEBverse protocol!
